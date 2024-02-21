@@ -7,7 +7,7 @@ This project follows "The Last Algorithms Course You'll Need" by ThePrimeagen
 In order to run the tests and try it out:
 
 ```console
-git clone https://github.com/uriGrif/dsa-in-rust
+git clone https://github.com/uriGrif/dsa-in-rust.git
 cd dsa-in-rust
 cargo test
 ```
